@@ -7,13 +7,11 @@ tags:
   - favorite tag by Kasia
 layout: layouts/post.njk
 ---
+
+
 Kosi kosi łapci!
 
-<img src="../img/Baby Yoda.svg" alt="logo">
-
-<img src="../img/pobrane.jpg" alt="logo2">
-
-<img src="../img/pobrane2.png" alt="logo3">
+<img class="logo" src="../../img/Baby Yoda.svg" alt="logo">
 
 ## ^.^
 

@@ -245,3 +245,9 @@ a[href].direct-link:focus:visited,
 :hover > a[href].direct-link:visited {
   color: #aaa;
 }
+
+/* -----------kKasi Css ----------- */
+
+.logo {
+  width: 25%;
+}
