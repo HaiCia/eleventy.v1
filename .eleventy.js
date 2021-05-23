@@ -60,6 +60,13 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
 
+  eleventyConfig.setTemplateFormats([
+    "md",
+    "css" ,
+    "jpg",
+    "png"// css is not yet a recognized template extension in Eleventy
+  ]);
+
   // Customize Markdown library and settings:
   let markdownLibrary = markdownIt({
     html: true,
