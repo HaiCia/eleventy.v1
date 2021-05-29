@@ -1,0 +1,10 @@
+---
+layout: layouts/post.njk
+tags: blog
+title: "Pika Pika? "
+date: 2021-05-29T18:30:42.598Z
+thumbnail: /images/uploads/pika.png
+rating: 5
+---
+Pika pika??!! \
+Pika pika pika pika!
