@@ -256,3 +256,12 @@ a[href].direct-link:focus:visited,
 .logo {
   width: 25%;
 }
+
+nav, footer {
+  background-image: url('../../img/tlo.jpg');
+  width: 90%;
+}
+
+footer {
+  margin: auto;
+}
