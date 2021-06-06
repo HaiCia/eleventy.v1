@@ -7,6 +7,4 @@ thumbnail: /images/uploads/87357.jpg
 rating: 5
 ---
 
-<img src="{{ thumbnail | url }}"/>
-
 little happy duckies

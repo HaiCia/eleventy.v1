@@ -7,7 +7,5 @@ thumbnail: /images/uploads/pika.png
 rating: 5
 ---
 
-<img src="{{ thumbnail | url }}"/>
-
 Pika pika??!!
 Pika pika pika pika!

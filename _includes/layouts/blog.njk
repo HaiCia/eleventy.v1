@@ -4,10 +4,14 @@ templateClass: tmpl-blog
 ---
 <h1>{{ title }}</h1>
 
+<img src="{{ thumbnail | url }}"/>
+
 <p>
   <span style="font-weight: bold;">Rating:</span>
-  {{ rating }}
+  {{ rating }} ⭐️
 </p>
 
 {{ content | safe }}
+
+
 
